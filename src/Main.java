@@ -58,5 +58,15 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB;
         System.out.println("For doubles, " + doubleOperandA + " divided by " + doubleOperandB + " equals " + doubleQuotient);
 
+        System.out.print("\n");
+
+        //information
+        float numberOfKidsInFamily = 1; //changed for security reasons
+        boolean isItRaining = false;
+        double priceOfGas = 2.999; //I would use an integer instead if I needed to do precise math with this money value
+        int favoriteNumber = 0;
+        double shoeSize = 6.0;
+        String birthMonth = "January"; //changed for security reasons
+        String fullName = "John Doe"; //changed for security reasons
     }
 }

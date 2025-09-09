@@ -63,7 +63,7 @@ public class Main {
         //information
         float numberOfKidsInFamily = 1; //changed for security reasons
         boolean isItRaining = false;
-        double priceOfGas = 2.999; //I would use an integer instead if I needed to do precise math with this money value
+        double priceOfGasPerGallon = 2.999; //I would use an integer instead if I needed to do precise math with this money value
         int favoriteNumber = 0;
         double shoeSize = 6.0;
         String birthMonth = "January"; //changed for security reasons
